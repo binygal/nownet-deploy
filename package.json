@@ -1,5 +1,5 @@
 {
-  "name": "heymo-devops",
+  "name": "nownet-deploy",
   "version": "0.0.1",
   "readme": "README.md",
   "repository": {
@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "author": "Binyamin Galinsky",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "simple-git": "^1.96.0"
   }
