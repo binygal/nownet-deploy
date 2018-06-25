@@ -1,0 +1,19 @@
+{
+  "name": "heymo-devops",
+  "version": "0.0.1",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:binygal/nownet-deploy.git"
+  },
+  "description": "Those are my devops scripts to enable me fast and easy deployment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Binyamin Galinsky",
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "^1.96.0"
+  }
+}
